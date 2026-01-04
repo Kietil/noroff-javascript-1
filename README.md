@@ -2,7 +2,7 @@
 
 ![Project Screenshot](./media/cover.jpg)
 
-- [Site](http://)
+- [Site](https://incomparable-genie-823a67.netlify.app/)
 
 Noroff's "JavaScript 1". The assignment is to build an interactive store built with HTML, CSS and JavaScript (only) using a provided API.
 
