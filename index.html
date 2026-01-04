@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="GameHub store homepage: browse and filter games." />
+    <title>GameHub | Home</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+    <script src="https://kit.fontawesome.com/3cc0008f2c.js" crossorigin="anonymous"></script>
+    <script src="./js/script.js" defer></script>
+    <script type="module" src="./js/pages/home.js" defer></script>
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="nav-content">
+            <div class="logo-container">
+                <a href="index.html" class="logo">
+                    <img src="./media/logo.svg" alt="Gamehub logo" />
+                </a>
+            </div>
+            <ul class="nav-links">
+                <li>
+                    <a href="./checkout/index.html">
+                        <i class="fas fa-shopping-cart" aria-hidden="true"></i>
+                        Cart / Checkout
+                    </a>
+                </li>
+            </ul>
+            <button class="menu-btn" type="button" aria-label="Menu">
+                <i class="fas fa-bars" aria-hidden="true"></i>
+            </button>
+        </div>
+    </nav>
+
+    <section class="page-section">
+        <div class="container">
+            <h1 class="page-title">Games</h1>
+            <div id="products" class="games-grid"></div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="social-links">
+                <a href="https://github.com/Kietil" target="_blank" class="social-link" aria-label="GitHub profile">
+                    <i class="fab fa-github" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
+        <p>Gamehub</p>
+    </footer>
+</body>
+
+</html>

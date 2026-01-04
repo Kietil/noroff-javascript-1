@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:200,300,400,500);
+
+:root {
+  --font: "Roboto", sans-serif;
+
+  --color-bg: #0b0f32;
+  --color-card: #18206f;
+  --color-primary: #ca2e55;
+  /* --color-primary-rgba: (202, 46, 85); */
+  --color-light: #ffffff;
+
+  --size-s: 0.6rem;
+  --size-base: 1rem;
+  --size-m: 1.2rem;
+  --size-l: 1.5rem;
+  --size-xl: 2rem;
+  --size-xxl: 2.4rem;
+  --section-center: 1200px;
+  --transition-base: all 0.3s ease;
+}
