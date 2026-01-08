@@ -4,9 +4,7 @@
 
 - [Site](https://incomparable-genie-823a67.netlify.app/)
 
-Noroff's "JavaScript 1". The assignment is to build an interactive store in HTML, CSS and JavaScript (only) using an API.
-
-The goal behind the assignment is to 'incrementally learn' the core/fundamental technologies of frontend development.
+Noroff's "JavaScript 1". The assignment is to build an interactive store in HTML, CSS and JavaScript (only) using an API. The goal behind the assignment is to 'incrementally learn' the core/fundamental technologies of frontend development.
 
 Features:
 
